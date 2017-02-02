@@ -1,3 +1,7 @@
 Symbol,Date,Shares,Price
 PRGTX,03/07/14,331,13.78
+<<<<<<< HEAD
 FBIOX,03/07/14,234,225.28
+=======
+FBIOX,03/07/14,234,225.28
+>>>>>>> d75b6d1ff9a6fa4ee6b894216d7aa4da268fd159
